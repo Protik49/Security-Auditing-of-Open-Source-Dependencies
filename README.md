@@ -4,14 +4,20 @@
 *Securing a software supply chain starts with understanding your dependencies*
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Understanding the Software Supply Chain](#understanding-the-software-supply-chain)
-- [Common Security Vulnerabilities in Dependencies](#common-security-vulnerabilities-in-dependencies)
-- [Tools and Techniques for Dependency Auditing](#tools-and-techniques-for-dependency-auditing)
-- [Best Practices for Dependency Management](#best-practices-for-dependency-management)
-- [Automated Security Scanning](#automated-security-scanning)
-- [Case Studies](#case-studies)
-- [Future Trends and Recommendations](#future-trends-and-recommendations)
+<details>
+  <summary>Click to Expand</summary>
+
+- [Introduction](#introduction)  
+- [Understanding the Software Supply Chain](#understanding-the-software-supply-chain)  
+- [Common Security Vulnerabilities in Dependencies](#common-security-vulnerabilities-in-dependencies)  
+- [Tools and Techniques for Dependency Auditing](#tools-and-techniques-for-dependency-auditing)  
+- [Best Practices for Dependency Management](#best-practices-for-dependency-management)  
+- [Automated Security Scanning](#automated-security-scanning)  
+- [Case Studies](#case-studies)  
+- [Future Trends and Recommendations](#future-trends-and-recommendations)  
+
+</details>
+
 
 ## Introduction
 
